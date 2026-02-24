@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiGateway",
+    "\\OrdersService",
+    "\\OrdersService\\OrdersService.API",
+    "\\OrdersService\\OrdersService.API\\Controllers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
