@@ -1,6 +1,6 @@
 # eCommerce Microservices Platform
 
-A cloud-native eCommerce application built with **C#**, **ASP.NET Core**, and deployed to **Microsoft Azure** with full CI/CD pipelines via **Azure DevOps**.
+A cloud-native eCommerce application built with **C#**, **ASP.NET Core**, and deployed to **Microsoft Azure** across 4 repositories — eCommerce-ApiGateway, eCommerce-Orders, eCommerce-Products, and eCommerce-Users microservices — with full CI/CD pipelines via **Azure DevOps**.
 
 ## Architecture Overview
 
